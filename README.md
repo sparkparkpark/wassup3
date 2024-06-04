@@ -1,7 +1,2 @@
-# wassup3
-wassup3
-
-
-## hello world
-
-### pull test
+박선정   
+Park Sunjeong
