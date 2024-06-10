@@ -1,6 +1,8 @@
 
 ## 박선정 / Sunjeong Park
-
+- **Email**: parksun.dot@gmail.com
+- **LinkedIn**: 
+- **GitHub**: 
 ---
 
 📍 지금은 잔디 심는중 📍
@@ -21,14 +23,6 @@
 1. 일반대학원 / 서비스경영전공 / 학위논문
 2. 사진영상전공 / 졸업전시회 
    
----
-
-## 📧 Contact
-
-- **Email**: parksun.dot@gmail.com
-- **LinkedIn**: 
-- **GitHub**: 
-
 ---
 
 ## 💡 Projects
