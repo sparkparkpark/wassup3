@@ -1,6 +1,5 @@
 
-## 👤 Name
-**박선정 / Sunjeong Park**
+## 박선정 / Sunjeong Park
 
 ---
 
