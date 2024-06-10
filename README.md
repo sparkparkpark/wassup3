@@ -36,7 +36,6 @@
 ### Project 2
 - **Title**: 긔긔바이크
 - **Description**: 자전거 수명 관리, 수리샵 정보
-- **Skill**: 
 
 ### Project 3
 - **Title**: 
