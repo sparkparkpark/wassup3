@@ -44,3 +44,9 @@
 - **Skill**:
   
 ---
+
+## 💡 photography
+
+- **Skill**: Photoshop. Lightroom
+- 제품, 매거진, 인물
+- 기획 및 촬영, 리터칭
