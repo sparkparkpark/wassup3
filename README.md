@@ -1,8 +1,8 @@
 
 ## 박선정 / Sunjeong Park
 - **Email**: parksun.dot@gmail.com
+- **Phone**: 010.****.****
 - **LinkedIn**: 
-- **GitHub**: 
 ---
 
 📍 지금은 잔디 심는중 📍
